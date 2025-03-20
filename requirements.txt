@@ -16,5 +16,7 @@ faiss-cpu
 langchain_chroma
 beautifulsoup4
 streamlit
+groq
+
 
 
