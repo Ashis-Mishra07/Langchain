@@ -44,3 +44,15 @@ if input_text:
 
 
 
+''' 
+
+NOTE: The ollma model has inbuilt tracking system which is eventually free of cost . 
+      So in the runnable sequence , it will show the steps or the tracking of the model from where it is running .
+
+'''
+
+
+
+
+
+
