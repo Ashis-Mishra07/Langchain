@@ -17,6 +17,7 @@ langchain_chroma
 beautifulsoup4
 streamlit
 groq
+langchain_groq
 
 
 
